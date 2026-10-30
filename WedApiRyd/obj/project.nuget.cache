@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SLCxSBnGgVsAosX24ta+CMbgFU8n3px+/sYi58+ilJpKiv5Xy/ux9JRviIC0sE9miZqE2TNVzDIXdnCXVul3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\st310-04\\Desktop\\Демин\\WedApiRyd\\WedApiRyd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st310-04\\.nuget\\packages\\materialdesigncolors\\5.4.0\\materialdesigncolors.5.4.0.nupkg.sha512",
+    "C:\\Users\\st310-04\\.nuget\\packages\\materialdesignthemes\\5.4.0\\materialdesignthemes.5.4.0.nupkg.sha512",
+    "C:\\Users\\st310-04\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.142\\microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|c:\\users\\st310-04\\desktop\\\u0434\u0435\u043C\u0438\u043D\\wedapiryd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|c:\\users\\st310-04\\desktop\\\u0434\u0435\u043C\u0438\u043D\\wedapiryd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|c:\\users\\st310-04\\desktop\\\u0434\u0435\u043C\u0438\u043D\\wedapiryd\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|c:\\users\\st310-04\\desktop\\\u0434\u0435\u043C\u0438\u043D\\wedapiryd\\models\\fsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AE6432-363E-4677-B529-C8E885192429}|WedApiRyd.csproj|solutionrelative:models\\fsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T09:56:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\Models\\FSubscription.cs",
+              "RelativeDocumentMoniker": "Models\\FSubscription.cs",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\Models\\FSubscription.cs",
+              "RelativeToolTip": "Models\\FSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:55:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T09:41:10.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-04\\Desktop\\\u0414\u0435\u043C\u0438\u043D\\WedApiRyd\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAcwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:41:09.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 516,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
